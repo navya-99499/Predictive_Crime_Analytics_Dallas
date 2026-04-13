@@ -1,3 +1,4 @@
+
 # 🚔 Predictive Crime Analytics – Dallas
 
 ## 📌 Overview
@@ -10,7 +11,7 @@ The goal is to transform raw public safety data into meaningful insights that ca
 ## 📊 Dataset
 - **Source:** Dallas Open Data – Police Incidents
 - **Type:** Real-world public safety / crime incident data
-- **Source Link:** https://www.dallasopendata.com/Public-Safety/Public-Safety-Police-Incidents/yn72-daik/data_preview
+- **Source Link:** https://www.dallasopendata.com/Public-Safety/Public-Safety-Police-Incidents/yn72-daik
 
 ---
 
@@ -90,20 +91,19 @@ Predictive_Crime_Analytics_Dallas/
 ## 📊 Sample Results
 
 ### Top 5 Crime Types
-
-
-### Yearly Crime Trend
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c4c3d4d6-c235-4f52-b7c1-4ebee28ba94a" />
 
 
 ### K-Means Crime Clusters
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/82932b91-a7c9-468f-b02b-1133f9a9dc7e" />
+
 
 ---
 
 ## 🚀 Future Improvements
-- Build an interactive dashboard for real-time crime monitoring
+
 - Apply hotspot prediction and advanced forecasting methods
-- Integrate Tableau or Power BI for enhanced reporting
-- Extend analysis with seasonal and neighborhood-level trends
+- Integrate Power BI for enhanced reporting
 
 ---
 
